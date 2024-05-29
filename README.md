@@ -1,0 +1,1 @@
+# Language-Pack-Norwegian-for-DiscordPlus
